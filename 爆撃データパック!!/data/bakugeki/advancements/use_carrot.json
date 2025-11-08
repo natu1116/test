@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "use": {
+      "trigger": "minecraft:used_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:carrot_on_a_stick"]
+        }
+      }
+    }
+  }
+}

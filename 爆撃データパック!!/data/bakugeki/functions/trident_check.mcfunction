@@ -1,0 +1,2 @@
+execute as @e[type=trident,tag=bakugeki] at @s if data entity @s {inGround:1b} run summon minecraft:fireball ~ ~-0.9 ~ {ExplosionPower:100,direction:[0.0,0.0,0.0]}
+execute as @e[type=trident,tag=bakugeki] if data entity @s {inGround:1b} run kill @s

@@ -1,0 +1,1 @@
+advancement revoke @s only carrot_bomb:use_carrot
