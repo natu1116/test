@@ -1,1 +1,0 @@
-execute at @s run summon minecraft:trident ^ ^100 ^30 {pickup:0b,Tags:["bakugeki"]}
